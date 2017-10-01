@@ -5,21 +5,13 @@ FROM python:3
 WORKDIR /app
 
 # Copy the current directory contents into the container at /app
-ADD . /app
+COPY . /app
 
 # Install any needed packages specified in requirements.txt
-RUN pip install -r requirements.txt
-
-# Or use this???
-# COPY requirements.txt ./
-# RUN pip install --no-cache-dir -r requirements.txt
-# COPY . .
+run pip install -r src/requirements/common.txt
 
 # Make port 80 available to the world outside this container
 EXPOSE 80
+EXPOSE 5000
 
-# Define environment variable
-ENV NAME World
-
-# Run app.py when the container launches
-CMD ["python", "app.py"]
+# run python playlist-compare/manage.py runserver
