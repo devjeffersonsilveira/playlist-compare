@@ -13,7 +13,9 @@ redis = Redis(host="redis", db=0, socket_connect_timeout=2, socket_timeout=2)
 app = Flask(__name__)
 
 client_credentials_manager = SpotifyClientCredentials()
-spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+spotify = spotipy.Spotify(
+    client_credentials_manager=client_credentials_manager)
+
 
 @app.route("/")
 def hello():
@@ -37,16 +39,15 @@ def list():
         user = sys.argv[1]
     playlists = spotify.user_playlists(user)
 
-    row = "{["
+    row = ""
     while playlists:
         for i, playlist in enumerate(playlists['items']):
             row += ("{\"num\":%4d, \"uri\":\"%s\", \"name\":\"%s\"}," %
-                         (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
+                    (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
         if playlists['next']:
             playlists = spotify.next(playlists)
         else:
             playlists = None
-    row += "]}"
     json = "{row}"
     return json.format(row=row)
 
