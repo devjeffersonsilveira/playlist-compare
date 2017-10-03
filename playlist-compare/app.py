@@ -12,6 +12,8 @@ redis = Redis(host="redis", db=0, socket_connect_timeout=2, socket_timeout=2)
 
 app = Flask(__name__)
 
+client_credentials_manager = SpotifyClientCredentials()
+spotify = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 @app.route("/")
 def hello():
@@ -29,36 +31,32 @@ def hello():
 @app.route("/list")
 def list():
 
-    client_credentials_manager = SpotifyClientCredentials()
-    sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-
-    user = 'spotify'
+    user = 'newjeffersonsilveira'
 
     if len(sys.argv) > 1:
         user = sys.argv[1]
-    playlists = sp.user_playlists(user)
+    playlists = spotify.user_playlists(user)
 
+    row = "{["
     while playlists:
         for i, playlist in enumerate(playlists['items']):
-            row += print("%4d %s %s" %
+            row += ("{\"num\":%4d, \"uri\":\"%s\", \"name\":\"%s\"}," %
                          (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
         if playlists['next']:
-            playlists = sp.next(playlists)
+            playlists = spotify.next(playlists)
         else:
             playlists = None
-        html = "<p><{row}/p>"
-        return html.format(row=row)
+    row += "]}"
+    json = "{row}"
+    return json.format(row=row)
 
 
 @app.route("/search")
 def search():
+    row = spotify.search(q='artist:' + 'wazer', type='artist')
 
-    spotify = spotipy.Spotify()
-
-    row = spotify.search(q='artist:' + name, type='artist')
-
-    html = "<p><{row}/p>"
-    return html.format(row=row)
+    json = "{row}"
+    return json.format(row=row)
 
 
 if __name__ == "__main__":
