@@ -1,9 +1,10 @@
 FROM python:3
 
-WORKDIR /app
-COPY . /app
+WORKDIR /usr/src/app
 
-run pip install -r playlist-compare/requirements/common.txt
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY ./playlist-compare ./playlist-compare
 
 EXPOSE 80
-EXPOSE 5000

@@ -1,9 +1,16 @@
 version: "3"
 services:
   playlist-compare:
-    image: jeffersonsilveira/python-bash
+    build: 
+        context: . 
+    environment: 
+        - SPOTIPY_CLIENT_ID
+        - SPOTIPY_CLIENT_SECRET
+        - FLASK_APP=playlist-compare/app.py
+        - FLASK_DEBUG=1
+    command: python -m flask run -h0.0.0.0 -p80
     ports:
-      - "4000:80"
+      - "9000:80"
     volumes:
-        - ./:/app/
+        - ./playlist-compare:/app/playlist-compare
     
