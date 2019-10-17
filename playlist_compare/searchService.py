@@ -1,10 +1,4 @@
-import os
-import socket
-import sys
-
-import spotipy
-from flask import Flask, request
-from spotipy.oauth2 import SpotifyClientCredentials
+from flask import request
 from playlist_compare.config import getSpotifyInstance
 
 
@@ -14,7 +8,4 @@ def search():
     spotify_instance = getSpotifyInstance(token)
     playlists = spotify_instance.user_playlists(username)
 
-    row = spotify_instance.search(q='artist:' + 'wazer', type='artist')
-
-    json = "{row}"
-    return json.format(row=row)
+    return spotify_instance.search(q='artist:' + 'wazer', type='artist')

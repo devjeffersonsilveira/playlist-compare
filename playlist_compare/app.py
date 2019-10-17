@@ -1,26 +1,45 @@
-import os
-import socket
-import sys
+from flask import Flask, request, json
 
-import spotipy
-from flask import Flask
-from spotipy.oauth2 import SpotifyClientCredentials
-
-from playlist_compare import list as listRoute, hello, search
+from playlist_compare import playlistService, helloService, searchService
 
 app = Flask(__name__)
 
 
 @app.route("/")
 def helloRoute():
-    return hello.hello()
+    data = helloService.hello()
+    return json.jsonify(data)
 
 
 @app.route("/list")
-def lista():
-    return listRoute.list()
+def listAll():
+    token = request.args.get("token")
+    username = request.args.get("username")
+
+    data = playlistService.getAll(token, username)
+    return json.jsonify(data)
+
+
+@app.route("/listOne")
+def listOne():
+    token = request.args.get("token")
+    username = request.args.get("username")
+    playlist = request.args.get("playlist")
+
+    data = playlistService.getTracks(token, username, playlist)
+    return json.jsonify(data)
+
+
+@app.route("/listDuplicates")
+def listDuplicates():
+    token = request.args.get("token")
+    username = request.args.get("username")
+
+    data = playlistService.getDuplicates(token, username)
+    return json.jsonify(data)
 
 
 @app.route("/search")
 def searchRoute():
-    return search.search()
+    data = searchService.search()
+    return json.jsonify(data)
