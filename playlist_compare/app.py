@@ -13,7 +13,7 @@ def helloRoute():
 
 @app.route("/list")
 def listAll():
-    token = request.args.get("token")
+    token = request.headers.get("token")
     username = request.args.get("username")
 
     data = playlistService.getAll(token, username)
@@ -22,7 +22,7 @@ def listAll():
 
 @app.route("/listOne")
 def listOne():
-    token = request.args.get("token")
+    token = request.headers.get("token")
     username = request.args.get("username")
     playlist = request.args.get("playlist")
 
@@ -32,7 +32,7 @@ def listOne():
 
 @app.route("/listDuplicates")
 def listDuplicates():
-    token = request.args.get("token")
+    token = request.headers.get("token")
     username = request.args.get("username")
 
     data = playlistService.getDuplicates(token, username)

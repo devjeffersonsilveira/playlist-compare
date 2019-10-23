@@ -1,5 +1,4 @@
 from flask import request
-from playlist_compare.config import getSpotifyInstance
 
 
 def search():

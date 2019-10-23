@@ -1,9 +1,9 @@
-from playlist_compare.config import getSpotifyInstance
+from playlist_compare.spotipyManager import SpotipyManager
 
 
 def getAll(token: str, username: str):
-    spotify_instance = getSpotifyInstance(token)
-    playlists = spotify_instance.user_playlists(username)
+    manager = SpotipyManager(token)
+    playlists = manager.user_playlists(username)
 
     row = []
     while playlists:
@@ -11,15 +11,16 @@ def getAll(token: str, username: str):
             row.append(playlist)
         if playlists['next']:
             print("getting next page of playlists: " + playlists['next'])
-            playlists = spotify_instance.next(playlists)
+            playlists = manager.next(playlists)
             continue
         playlists = None
     return row
 
 
 def getTracks(token: str, username: str, playlist: str) -> list:
-    spotify_instance = getSpotifyInstance(token)
-    tracks = spotify_instance.user_playlist_tracks(username, playlist)
+    manager = SpotipyManager(token)
+    return manager.user_playlist_tracks(username, playlist)
+    tracks = manager.user_playlist_tracks(username, playlist)
 
     row = []
     while tracks:
@@ -27,7 +28,7 @@ def getTracks(token: str, username: str, playlist: str) -> list:
             row.append(track)
         if tracks['next']:
             print("getting next page of tracks: " + tracks['next'])
-            tracks = spotify_instance.next(tracks)
+            tracks = manager.next(tracks)
             continue
         tracks = None
 

@@ -1,0 +1,1809 @@
+{
+  "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira/playlists?offset=100&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4zbnxB3xIFZgaMOO3kLLDE"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4zbnxB3xIFZgaMOO3kLLDE",
+    "id" : "4zbnxB3xIFZgaMOO3kLLDE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2734730fc3081e267548b9dc5cfab67616d0000b27364295a16114f619e98a7c23fab67616d0000b273be0e5ebab8c61469b1ff9f62ab67616d0000b273f0a9ea7f5b5f9a6c7bae097d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2734730fc3081e267548b9dc5cfab67616d0000b27364295a16114f619e98a7c23fab67616d0000b273be0e5ebab8c61469b1ff9f62ab67616d0000b273f0a9ea7f5b5f9a6c7bae097d",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2734730fc3081e267548b9dc5cfab67616d0000b27364295a16114f619e98a7c23fab67616d0000b273be0e5ebab8c61469b1ff9f62ab67616d0000b273f0a9ea7f5b5f9a6c7bae097d",
+      "width" : 60
+    } ],
+    "name" : "That's how we roll!",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MzcsOTQwNjcxYTJjZmIwOGNlZjQ1MzI3YzJkNjA3YmI0NjYzZDNhZmU3Yw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4zbnxB3xIFZgaMOO3kLLDE/tracks",
+      "total" : 29
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4zbnxB3xIFZgaMOO3kLLDE"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4fW9rc1aJwpA7DKEPkgKam"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4fW9rc1aJwpA7DKEPkgKam",
+    "id" : "4fW9rc1aJwpA7DKEPkgKam",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27322ec86b4f589d75bd315ea31ab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273caaf0007efd73589faae6816f976e65ffd3322fbfe8c2e2a7daed9b14a92f33f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27322ec86b4f589d75bd315ea31ab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273caaf0007efd73589faae6816f976e65ffd3322fbfe8c2e2a7daed9b14a92f33f",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27322ec86b4f589d75bd315ea31ab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273caaf0007efd73589faae6816f976e65ffd3322fbfe8c2e2a7daed9b14a92f33f",
+      "width" : 60
+    } ],
+    "name" : "Long Road",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MzksZTAxNDI5NzVkMzg3ZDI3YTk5MzEwOGNhMGEzMzIyOTJlOTU1ODkwOQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4fW9rc1aJwpA7DKEPkgKam/tracks",
+      "total" : 33
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4fW9rc1aJwpA7DKEPkgKam"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWiDhnQ2IIru"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWiDhnQ2IIru",
+    "id" : "37i9dQZF1DWWiDhnQ2IIru",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/df4d42ffbc1c2ec9ec31e2a44c62ca92240da849",
+      "width" : null
+    } ],
+    "name" : "70s Road Trip",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWiDhnQ2IIru/tracks",
+      "total" : 100
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DWWiDhnQ2IIru"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7k3T9O9bscd",
+    "id" : "37i9dQZF1DX7k3T9O9bscd",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/9eeead55d3581ad8fed18e81b61fe30483c1d9d1",
+      "width" : null
+    } ],
+    "name" : "Neo-Psychedelic Rock",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7k3T9O9bscd/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX7k3T9O9bscd"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/66dyN8hnYp93HN9k5lPHwR"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/66dyN8hnYp93HN9k5lPHwR",
+    "id" : "66dyN8hnYp93HN9k5lPHwR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2731f5aa511c66ed8d7b520ca0bab67616d0000b273cdd63cf7d1e62276e23381bcab67616d0000b273dc61795a59e91bb543928a5cbf410fa9b75fa78447c8c1dc2bd730900942644e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2731f5aa511c66ed8d7b520ca0bab67616d0000b273cdd63cf7d1e62276e23381bcab67616d0000b273dc61795a59e91bb543928a5cbf410fa9b75fa78447c8c1dc2bd730900942644e",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2731f5aa511c66ed8d7b520ca0bab67616d0000b273cdd63cf7d1e62276e23381bcab67616d0000b273dc61795a59e91bb543928a5cbf410fa9b75fa78447c8c1dc2bd730900942644e",
+      "width" : 60
+    } ],
+    "name" : "tristezalike",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NCxhZmE1NTdkYjg2ZGY4MjZjMDg2YWMzZjkxMmM3YjVmMjY5ZjBjOTdi",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/66dyN8hnYp93HN9k5lPHwR/tracks",
+      "total" : 101
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:66dyN8hnYp93HN9k5lPHwR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3Q6A1JTcWGtq2Nq1mhnZAg"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3Q6A1JTcWGtq2Nq1mhnZAg",
+    "id" : "3Q6A1JTcWGtq2Nq1mhnZAg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2736724cc24866f69708489c889ab67616d0000b273bf0d96934a9fb6daab398f4dab67616d0000b273c60ea69fd9b6a0045d018061ab67616d0000b273d935a16ea1e27fe96390a821",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2736724cc24866f69708489c889ab67616d0000b273bf0d96934a9fb6daab398f4dab67616d0000b273c60ea69fd9b6a0045d018061ab67616d0000b273d935a16ea1e27fe96390a821",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2736724cc24866f69708489c889ab67616d0000b273bf0d96934a9fb6daab398f4dab67616d0000b273c60ea69fd9b6a0045d018061ab67616d0000b273d935a16ea1e27fe96390a821",
+      "width" : 60
+    } ],
+    "name" : "stonezera",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "OCw5NTM2ZmJhNThlOTk2MjFjMWMyNzNjZGRhODUxYjU0MjBiZWE4MDUx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3Q6A1JTcWGtq2Nq1mhnZAg/tracks",
+      "total" : 27
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3Q6A1JTcWGtq2Nq1mhnZAg"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1y7GGNB20LdXoPTlv4sSpy"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1y7GGNB20LdXoPTlv4sSpy",
+    "id" : "1y7GGNB20LdXoPTlv4sSpy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2734f28f46e4583a1d2e69e628bab67616d0000b273699f89422081fb2a41464fe0ab67616d0000b273d452c92e593f027a71836c31ab67616d0000b273ebd7ea69c183364480b95155",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2734f28f46e4583a1d2e69e628bab67616d0000b273699f89422081fb2a41464fe0ab67616d0000b273d452c92e593f027a71836c31ab67616d0000b273ebd7ea69c183364480b95155",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2734f28f46e4583a1d2e69e628bab67616d0000b273699f89422081fb2a41464fe0ab67616d0000b273d452c92e593f027a71836c31ab67616d0000b273ebd7ea69c183364480b95155",
+      "width" : 60
+    } ],
+    "name" : "Musica de Doidao",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzgsMjdlZGNkMDc3ZWU1OGQ0ZjczYjk4MDdjYWY1OGFkYWZmYzA4NGEyOA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1y7GGNB20LdXoPTlv4sSpy/tracks",
+      "total" : 496
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1y7GGNB20LdXoPTlv4sSpy"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0FblpqIWV2FM7CcD6bLqcV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0FblpqIWV2FM7CcD6bLqcV",
+    "id" : "0FblpqIWV2FM7CcD6bLqcV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/73440d1b761e002d01b7e3f1b1de077979dcc5ceab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273cc68329bfbf34037df965dc1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/73440d1b761e002d01b7e3f1b1de077979dcc5ceab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273cc68329bfbf34037df965dc1",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/73440d1b761e002d01b7e3f1b1de077979dcc5ceab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273cc68329bfbf34037df965dc1",
+      "width" : 60
+    } ],
+    "name" : "Esquisitinhas",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NTAsZTJlNjc2NmY4MGE4ZGY0ZWE1MTQ5YjBiZGVmNzFiYjc4MzkzYjk0Yw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0FblpqIWV2FM7CcD6bLqcV/tracks",
+      "total" : 47
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0FblpqIWV2FM7CcD6bLqcV"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0O4gNmdcdXJ5cFVlaWrflv"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0O4gNmdcdXJ5cFVlaWrflv",
+    "id" : "0O4gNmdcdXJ5cFVlaWrflv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2735cb6fc619fd92d9f59366f34ab67616d0000b273a2e7c721622b5c06ac033d34ab67616d0000b273c07e55ec690b665d503b504cab67616d0000b273c2500c4201de5914e99dfffa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2735cb6fc619fd92d9f59366f34ab67616d0000b273a2e7c721622b5c06ac033d34ab67616d0000b273c07e55ec690b665d503b504cab67616d0000b273c2500c4201de5914e99dfffa",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2735cb6fc619fd92d9f59366f34ab67616d0000b273a2e7c721622b5c06ac033d34ab67616d0000b273c07e55ec690b665d503b504cab67616d0000b273c2500c4201de5914e99dfffa",
+      "width" : 60
+    } ],
+    "name" : "New Stuff",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NTksZDFmMjJmODM1NGExOTI3NzA1ZmY2YzNiY2VlZDM5M2ZmYzI2M2Q0Ng==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0O4gNmdcdXJ5cFVlaWrflv/tracks",
+      "total" : 58
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0O4gNmdcdXJ5cFVlaWrflv"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3ZfuzHRLHYLkbNADET6fOC"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3ZfuzHRLHYLkbNADET6fOC",
+    "id" : "3ZfuzHRLHYLkbNADET6fOC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27325d8de7ce38b488a63019c55ab67616d0000b2734a3abe6fb3b67d92d52ef4b8ab67616d0000b273b559c3b6301ca8e831ee139eab67616d0000b273c03588434bc3d6b5ba2c4119",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27325d8de7ce38b488a63019c55ab67616d0000b2734a3abe6fb3b67d92d52ef4b8ab67616d0000b273b559c3b6301ca8e831ee139eab67616d0000b273c03588434bc3d6b5ba2c4119",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27325d8de7ce38b488a63019c55ab67616d0000b2734a3abe6fb3b67d92d52ef4b8ab67616d0000b273b559c3b6301ca8e831ee139eab67616d0000b273c03588434bc3d6b5ba2c4119",
+      "width" : 60
+    } ],
+    "name" : "Indie-Hipster-Weird 201X",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTA5LDYyODU1ZGFiOGZiOGUxYmRkODRmNDYwMDYwYWNiN2M1NTIzYjk1ODI=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3ZfuzHRLHYLkbNADET6fOC/tracks",
+      "total" : 144
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3ZfuzHRLHYLkbNADET6fOC"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7pIbzEcckmYq0gnDBBlrRV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7pIbzEcckmYq0gnDBBlrRV",
+    "id" : "7pIbzEcckmYq0gnDBBlrRV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b273268ac130dd5ca689d21cea43ab67616d0000b27397c8bbea0e983e49fc7f5c33ab67616d0000b273ba42a6f7d6ca2dc4eb956afaab67616d0000b273e198b6b9c5bfe013458e8ec9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b273268ac130dd5ca689d21cea43ab67616d0000b27397c8bbea0e983e49fc7f5c33ab67616d0000b273ba42a6f7d6ca2dc4eb956afaab67616d0000b273e198b6b9c5bfe013458e8ec9",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b273268ac130dd5ca689d21cea43ab67616d0000b27397c8bbea0e983e49fc7f5c33ab67616d0000b273ba42a6f7d6ca2dc4eb956afaab67616d0000b273e198b6b9c5bfe013458e8ec9",
+      "width" : 60
+    } ],
+    "name" : "KillsRadio",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "OCw1M2E0ZTU1YzJlZGVjMThiYWY3NTQwMjgzMGFlYmI5MzYxMGMyNDMw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7pIbzEcckmYq0gnDBBlrRV/tracks",
+      "total" : 141
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7pIbzEcckmYq0gnDBBlrRV"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3GlHSy6cqLrjqEUm0Knk5i"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3GlHSy6cqLrjqEUm0Knk5i",
+    "id" : "3GlHSy6cqLrjqEUm0Knk5i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27346ed4ae9343359e5965baf7bab67616d0000b2739011c242e62641e4f3fc5b8dab67616d0000b273cc68329bfbf34037df965dc1ab67616d0000b273d381b6e0d9ffb31c47080079",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27346ed4ae9343359e5965baf7bab67616d0000b2739011c242e62641e4f3fc5b8dab67616d0000b273cc68329bfbf34037df965dc1ab67616d0000b273d381b6e0d9ffb31c47080079",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27346ed4ae9343359e5965baf7bab67616d0000b2739011c242e62641e4f3fc5b8dab67616d0000b273cc68329bfbf34037df965dc1ab67616d0000b273d381b6e0d9ffb31c47080079",
+      "width" : 60
+    } ],
+    "name" : "essa coisa aqui",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTE5LDNlMzdhZTQ3ZmZjZjAzZWQ5NTczNWMyYzMwMDc5NmVlMzI2MDNkNjA=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3GlHSy6cqLrjqEUm0Knk5i/tracks",
+      "total" : 315
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3GlHSy6cqLrjqEUm0Knk5i"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdTCdwCKzXwo",
+    "id" : "37i9dQZF1DXdTCdwCKzXwo",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f000000026ae33e22093ced41760fb0c0",
+      "width" : null
+    } ],
+    "name" : "Early Alternative",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdTCdwCKzXwo/tracks",
+      "total" : 75
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXdTCdwCKzXwo"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/55h2RCdzcmLSfMFgbXq1uL"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/55h2RCdzcmLSfMFgbXq1uL",
+    "id" : "55h2RCdzcmLSfMFgbXq1uL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2733711fa074510441f17c0d594ab67616d0000b2734ff79c644bd623055742c711ab67616d0000b2738385f4ad0d9813894b155540ab67616d0000b273f142205e336ec0af3e1a4eb0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2733711fa074510441f17c0d594ab67616d0000b2734ff79c644bd623055742c711ab67616d0000b2738385f4ad0d9813894b155540ab67616d0000b273f142205e336ec0af3e1a4eb0",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2733711fa074510441f17c0d594ab67616d0000b2734ff79c644bd623055742c711ab67616d0000b2738385f4ad0d9813894b155540ab67616d0000b273f142205e336ec0af3e1a4eb0",
+      "width" : 60
+    } ],
+    "name" : "Alt",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTgsMDUwZmJkMjYyY2I3MDEzOTQ1YWIyODc0ZmEyMDI4ZmJmNDBhYTNkMw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/55h2RCdzcmLSfMFgbXq1uL/tracks",
+      "total" : 146
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:55h2RCdzcmLSfMFgbXq1uL"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6ylvTHhAEUKqzWOMtPTm0A"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6ylvTHhAEUKqzWOMtPTm0A",
+    "id" : "6ylvTHhAEUKqzWOMtPTm0A",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2738eb541a8a5ee8971f62e74fd",
+      "width" : 640
+    } ],
+    "name" : "That One",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NywwYzA5ZjU2YTc0NTA1YTljM2JlZWY1NjM1ZDQ2YWE4OGFjZDE0NmEz",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6ylvTHhAEUKqzWOMtPTm0A/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6ylvTHhAEUKqzWOMtPTm0A"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXcRFVH5M5CaiB"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXcRFVH5M5CaiB",
+    "id" : "37i9dQZEVXcRFVH5M5CaiB",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/d430bbffb1ace928e39f4f746db423c2895f0fbf",
+      "width" : null
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MjYxODM1MjAsMDAwMDAwMDA0YmU1NWY0ODllYTJlNGNmZWMxODY5ZGM0MzgwODQ1ZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXcRFVH5M5CaiB/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXcRFVH5M5CaiB"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7cXPQLOGobFa2rLSyHbpxh"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7cXPQLOGobFa2rLSyHbpxh",
+    "id" : "7cXPQLOGobFa2rLSyHbpxh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273f05e5ac32fdd79d100315a20",
+      "width" : 640
+    } ],
+    "name" : "MUSICAS QUE DEVEM SER ACOMPANHADAS DE DROGAS",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NCwzZjRhZDYyY2U5MjYwNzYxOTE1Y2ZjZWZiOTNiZGY5MzgxMjcxZmE0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7cXPQLOGobFa2rLSyHbpxh/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7cXPQLOGobFa2rLSyHbpxh"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/40MES6qlqE83MMiVPiAyyN"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/40MES6qlqE83MMiVPiAyyN",
+    "id" : "40MES6qlqE83MMiVPiAyyN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/6fe38279b80bb042fd76c780f070819112832accab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273a1da8b88f12575bc89eabb34ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/6fe38279b80bb042fd76c780f070819112832accab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273a1da8b88f12575bc89eabb34ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/6fe38279b80bb042fd76c780f070819112832accab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273a1da8b88f12575bc89eabb34ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 60
+    } ],
+    "name" : "satanismo a gente ve por aqui",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTUsMDcxMDE0ZmQwNGQ1ZmU4ODc4N2RiNTk4NDA2Yjk2YTllYjdlNTExYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/40MES6qlqE83MMiVPiAyyN/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:40MES6qlqE83MMiVPiAyyN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0xBaXapXxMiBVj6mREmClW"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0xBaXapXxMiBVj6mREmClW",
+    "id" : "0xBaXapXxMiBVj6mREmClW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2734c29f49b11488856e468719cab67616d0000b273abd6980a0f2f2c9cc13581e0ab67616d0000b273d400d27cba05bb0545533864ab67616d0000b273f0f6b8bc425633e6ed6369c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2734c29f49b11488856e468719cab67616d0000b273abd6980a0f2f2c9cc13581e0ab67616d0000b273d400d27cba05bb0545533864ab67616d0000b273f0f6b8bc425633e6ed6369c4",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2734c29f49b11488856e468719cab67616d0000b273abd6980a0f2f2c9cc13581e0ab67616d0000b273d400d27cba05bb0545533864ab67616d0000b273f0f6b8bc425633e6ed6369c4",
+      "width" : 60
+    } ],
+    "name" : "PESADA!!!",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQ2LDFiNWU2YjliNGU5Mjg4M2RhZTUwNGVmYzcwM2FkYWYyMTVkYjMyNWE=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0xBaXapXxMiBVj6mREmClW/tracks",
+      "total" : 358
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0xBaXapXxMiBVj6mREmClW"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7ntTnJwtRX0BLTaAlTA2up"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7ntTnJwtRX0BLTaAlTA2up",
+    "id" : "7ntTnJwtRX0BLTaAlTA2up",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2739eca62602e87754861f4d890ab67616d0000b273c2a9936c1d03352eb1c6e72aab67616d0000b273d2352d44b5cd0206dbe369a0ab67616d0000b273d7cca0b101ecb058774638a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2739eca62602e87754861f4d890ab67616d0000b273c2a9936c1d03352eb1c6e72aab67616d0000b273d2352d44b5cd0206dbe369a0ab67616d0000b273d7cca0b101ecb058774638a5",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2739eca62602e87754861f4d890ab67616d0000b273c2a9936c1d03352eb1c6e72aab67616d0000b273d2352d44b5cd0206dbe369a0ab67616d0000b273d7cca0b101ecb058774638a5",
+      "width" : 60
+    } ],
+    "name" : "Pirate music",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NywwYjQ2NGI1YTBjMjk1MmE2OGRiNTgyYWE4OWE2NTU0ZTVmNDg2MDUw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7ntTnJwtRX0BLTaAlTA2up/tracks",
+      "total" : 254
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7ntTnJwtRX0BLTaAlTA2up"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1S2z8xoL3HHaCmJVeMaNiy"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1S2z8xoL3HHaCmJVeMaNiy",
+    "id" : "1S2z8xoL3HHaCmJVeMaNiy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2732b1a540acc33e18deec4deebab67616d0000b2737e230df7b35bac1a64e6707eab67616d0000b273b19e9203b3f3ae3a14aa92b1ab67616d0000b273c774c05c803b5b7feef7af0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2732b1a540acc33e18deec4deebab67616d0000b2737e230df7b35bac1a64e6707eab67616d0000b273b19e9203b3f3ae3a14aa92b1ab67616d0000b273c774c05c803b5b7feef7af0b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2732b1a540acc33e18deec4deebab67616d0000b2737e230df7b35bac1a64e6707eab67616d0000b273b19e9203b3f3ae3a14aa92b1ab67616d0000b273c774c05c803b5b7feef7af0b",
+      "width" : 60
+    } ],
+    "name" : "Caos",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NDg1LGI5Y2QyY2ZjMmI2Y2JiMDZlMDk1NGU4ZjI3NTJlZTAxMjYxNThhMWI=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1S2z8xoL3HHaCmJVeMaNiy/tracks",
+      "total" : 420
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1S2z8xoL3HHaCmJVeMaNiy"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4lgCZlsJyUlrl1LyCrwhwS"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4lgCZlsJyUlrl1LyCrwhwS",
+    "id" : "4lgCZlsJyUlrl1LyCrwhwS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/8476b6043a993a8755a92a1ce9f49cbc0845c383ab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b2736eb613fb740c4e6068928996ab67616d0000b2736f05798ac49c8ef26714628b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/8476b6043a993a8755a92a1ce9f49cbc0845c383ab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b2736eb613fb740c4e6068928996ab67616d0000b2736f05798ac49c8ef26714628b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/8476b6043a993a8755a92a1ce9f49cbc0845c383ab67616d0000b27304869891f1b8f1dc7db146d5ab67616d0000b2736eb613fb740c4e6068928996ab67616d0000b2736f05798ac49c8ef26714628b",
+      "width" : 60
+    } ],
+    "name" : "Dude, what?",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NzYsMDRiODRlYjI3OWFkYWNjY2RmMTMyMjliNWFkYWQyOWEyM2YyOGNlOA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4lgCZlsJyUlrl1LyCrwhwS/tracks",
+      "total" : 71
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4lgCZlsJyUlrl1LyCrwhwS"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7MyEHUl9dbZrR2yQ0lLtFu"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7MyEHUl9dbZrR2yQ0lLtFu",
+    "id" : "7MyEHUl9dbZrR2yQ0lLtFu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b273afb855e6461310dff4046c56ab67616d0000b273bc1c63a5b66ab9ac3ea21672ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b273afb855e6461310dff4046c56ab67616d0000b273bc1c63a5b66ab9ac3ea21672ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b273afb855e6461310dff4046c56ab67616d0000b273bc1c63a5b66ab9ac3ea21672ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 60
+    } ],
+    "name" : "70's acid",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MjAsNzAzOTlkNDA3MGZhOGJhMzIyOTM3Zjc1ZmJmN2IyNjg0MWE5ODM5MQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7MyEHUl9dbZrR2yQ0lLtFu/tracks",
+      "total" : 17
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7MyEHUl9dbZrR2yQ0lLtFu"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/539EWfm9Vx59A1meJa6prq"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/539EWfm9Vx59A1meJa6prq",
+    "id" : "539EWfm9Vx59A1meJa6prq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b273288d32d88a616b9a278ddc07ab67616d0000b2733fe8bdd73c84ff3f7905b7fdab67616d0000b2736f2f499c1df1f210c9b34b32b36d5e9d82e08f38e975030f8be565f74572e214",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b273288d32d88a616b9a278ddc07ab67616d0000b2733fe8bdd73c84ff3f7905b7fdab67616d0000b2736f2f499c1df1f210c9b34b32b36d5e9d82e08f38e975030f8be565f74572e214",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b273288d32d88a616b9a278ddc07ab67616d0000b2733fe8bdd73c84ff3f7905b7fdab67616d0000b2736f2f499c1df1f210c9b34b32b36d5e9d82e08f38e975030f8be565f74572e214",
+      "width" : 60
+    } ],
+    "name" : "Rockero rabugento",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MzksMTFjM2U4OTIyMzNmOTkzNDFlYTljNzc1MzFjNmIyZTI2YTIzNDEyYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/539EWfm9Vx59A1meJa6prq/tracks",
+      "total" : 37
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:539EWfm9Vx59A1meJa6prq"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/39spF2vhDJPsDwGa6QALuN"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/39spF2vhDJPsDwGa6QALuN",
+    "id" : "39spF2vhDJPsDwGa6QALuN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/3e032359f386909a3b6b62a4edda606bcd897b4fab67616d0000b2732043dd3544a339547d04b436ab67616d0000b2734121faee8df82c526cbab2beab67616d0000b273e8dd4db47e7177c63b0b7d53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/3e032359f386909a3b6b62a4edda606bcd897b4fab67616d0000b2732043dd3544a339547d04b436ab67616d0000b2734121faee8df82c526cbab2beab67616d0000b273e8dd4db47e7177c63b0b7d53",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/3e032359f386909a3b6b62a4edda606bcd897b4fab67616d0000b2732043dd3544a339547d04b436ab67616d0000b2734121faee8df82c526cbab2beab67616d0000b273e8dd4db47e7177c63b0b7d53",
+      "width" : 60
+    } ],
+    "name" : "Musicas que Mamãe Gosta",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjE4LGRkYzQ5ZGQ0MDRiNTZmN2E1OTNhNzJmZDMwN2IzNDlkYTAzNTlhNDA=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/39spF2vhDJPsDwGa6QALuN/tracks",
+      "total" : 181
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:39spF2vhDJPsDwGa6QALuN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2Zp0jBYD9IEqs1veF6tkHX"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2Zp0jBYD9IEqs1veF6tkHX",
+    "id" : "2Zp0jBYD9IEqs1veF6tkHX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2734a84848e015e2a4c484cf217ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2736f4433e965a9ee12556ecd12ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2734a84848e015e2a4c484cf217ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2736f4433e965a9ee12556ecd12ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2734a84848e015e2a4c484cf217ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2736f4433e965a9ee12556ecd12ab67616d0000b273fb91d62490c637ac95c747cf",
+      "width" : 60
+    } ],
+    "name" : "Bigode's music",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "OTIsNWEzNThiYzE3NjlmYTQ2MjA2ODkyNzNlNWU3MzY5OTQwNmY2ZGEzYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2Zp0jBYD9IEqs1veF6tkHX/tracks",
+      "total" : 295
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2Zp0jBYD9IEqs1veF6tkHX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdj82GcM2wq2"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdj82GcM2wq2",
+    "id" : "37i9dQZF1DXdj82GcM2wq2",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002b46fd725f73893ca0fb6c5c4",
+      "width" : null
+    } ],
+    "name" : "70s FM Radio Rider",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTA2MTU3MiwwMDAwMDAzMTAwMDAwMTZkY2E5MTIzNzcwMDAwMDE2Y2Y2OTNlM2Qx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdj82GcM2wq2/tracks",
+      "total" : 55
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXdj82GcM2wq2"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSV3Tk4GO2fq"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq",
+    "id" : "37i9dQZF1DWSV3Tk4GO2fq",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/2450a4dac5a8b859a1ee5d48dc39cb7a4ae317f2",
+      "width" : null
+    } ],
+    "name" : "All Out 50s",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq/tracks",
+      "total" : 75
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DWSV3Tk4GO2fq"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UtSsGT1Sbe",
+    "id" : "37i9dQZF1DX4UtSsGT1Sbe",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/abc435bd0ae1f47a89e7810ffee7b53b040b86ea",
+      "width" : null
+    } ],
+    "name" : "All Out 80s",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UtSsGT1Sbe/tracks",
+      "total" : 105
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTJ7xPn4vNaz",
+    "id" : "37i9dQZF1DWTJ7xPn4vNaz",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/45086aa353686ae8d9f47ffac84acc3199b633aa",
+      "width" : null
+    } ],
+    "name" : "All Out 70s",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTJ7xPn4vNaz/tracks",
+      "total" : 104
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DWTJ7xPn4vNaz"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l",
+    "id" : "37i9dQZF1DXbTxeAdrVG2l",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/7587b292d2be8a4259aaad9d2bb9a9c2638d8aea",
+      "width" : null
+    } ],
+    "name" : "All Out 90s",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l/tracks",
+      "total" : 90
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXbTxeAdrVG2l"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj",
+    "id" : "37i9dQZF1DXaKIA8E7WcJj",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/94c8f079ae284ab0035039b6224398be8e4cd188",
+      "width" : null
+    } ],
+    "name" : "All Out 60s",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTU3MTI4Mjc3OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj/tracks",
+      "total" : 97
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXaKIA8E7WcJj"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5wmrHsTBYnqff5Cz459kax"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5wmrHsTBYnqff5Cz459kax",
+    "id" : "5wmrHsTBYnqff5Cz459kax",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b273363e2dd4abf7b882dfe737d2ab67616d0000b27344f5226f5661300164779cfdab67616d0000b2737a10ad857aef9b3f07dbd58cab67616d0000b273888e06bdd3ce1749a064c023",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b273363e2dd4abf7b882dfe737d2ab67616d0000b27344f5226f5661300164779cfdab67616d0000b2737a10ad857aef9b3f07dbd58cab67616d0000b273888e06bdd3ce1749a064c023",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b273363e2dd4abf7b882dfe737d2ab67616d0000b27344f5226f5661300164779cfdab67616d0000b2737a10ad857aef9b3f07dbd58cab67616d0000b273888e06bdd3ce1749a064c023",
+      "width" : 60
+    } ],
+    "name" : "Bioshock 1 + 2 + Infinite {JC}",
+    "owner" : {
+      "display_name" : "Jose Cortes",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/xsoset"
+      },
+      "href" : "https://api.spotify.com/v1/users/xsoset",
+      "id" : "xsoset",
+      "type" : "user",
+      "uri" : "spotify:user:xsoset"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NTYsZTQ2NjBhZTk5OTZkMDAzMTg0Y2FlNGRmYTI4NzY1MDIyNjg0ZDAyZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5wmrHsTBYnqff5Cz459kax/tracks",
+      "total" : 52
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5wmrHsTBYnqff5Cz459kax"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/61rjNudJLpCT9iSedCfIOG"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/61rjNudJLpCT9iSedCfIOG",
+    "id" : "61rjNudJLpCT9iSedCfIOG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2731960be23ca49f8e0639000caab67616d0000b2736eba1a0996d9e69ad20ec88bab67616d0000b273acb3a4cd823e9c0e76408512ab67616d0000b273da8d92affd796f7e20af7375",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2731960be23ca49f8e0639000caab67616d0000b2736eba1a0996d9e69ad20ec88bab67616d0000b273acb3a4cd823e9c0e76408512ab67616d0000b273da8d92affd796f7e20af7375",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2731960be23ca49f8e0639000caab67616d0000b2736eba1a0996d9e69ad20ec88bab67616d0000b273acb3a4cd823e9c0e76408512ab67616d0000b273da8d92affd796f7e20af7375",
+      "width" : 60
+    } ],
+    "name" : "Saints Row 4 - The Mix 107.77",
+    "owner" : {
+      "display_name" : "asdvj",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/asdvj"
+      },
+      "href" : "https://api.spotify.com/v1/users/asdvj",
+      "id" : "asdvj",
+      "type" : "user",
+      "uri" : "spotify:user:asdvj"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MjUsNjRjMWQxYzExN2U0Zjk1NDFmMDBmOGY5Y2M1ZDhhMTEzODE3Y2YxNQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/61rjNudJLpCT9iSedCfIOG/tracks",
+      "total" : 16
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:61rjNudJLpCT9iSedCfIOG"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4QGeyvSSm3DI3HOq3RAOZZ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4QGeyvSSm3DI3HOq3RAOZZ",
+    "id" : "4QGeyvSSm3DI3HOq3RAOZZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/4ae67f5db25f149d2c3d0c93abe7c105de28dccfab67616d0000b2738f7073a5075b13f154248029ab67616d0000b273d6a1f7a12629154fa274631fd99fcc6f663257d620c9d99742130515e105ccdd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/4ae67f5db25f149d2c3d0c93abe7c105de28dccfab67616d0000b2738f7073a5075b13f154248029ab67616d0000b273d6a1f7a12629154fa274631fd99fcc6f663257d620c9d99742130515e105ccdd",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/4ae67f5db25f149d2c3d0c93abe7c105de28dccfab67616d0000b2738f7073a5075b13f154248029ab67616d0000b273d6a1f7a12629154fa274631fd99fcc6f663257d620c9d99742130515e105ccdd",
+      "width" : 60
+    } ],
+    "name" : "Saints Row 2 107.7",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTcsZWQyMDAyZWE3NTU2ZTEyNWM1MDc5M2E3NzEyMDE4ODkyYmMxYTRkMA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4QGeyvSSm3DI3HOq3RAOZZ/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4QGeyvSSm3DI3HOq3RAOZZ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1InrKE2nH62LH55MGoroLq"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1InrKE2nH62LH55MGoroLq",
+    "id" : "1InrKE2nH62LH55MGoroLq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 60
+    } ],
+    "name" : "saints row",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NyxjMDg1YTI5YjY2Mzc2ZjVlYTM2MDRlM2FjNWQxNTdjY2FiZTZjMWQw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1InrKE2nH62LH55MGoroLq/tracks",
+      "total" : 46
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1InrKE2nH62LH55MGoroLq"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3YK0hyTJFISncb2wvhgPse"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3YK0hyTJFISncb2wvhgPse",
+    "id" : "3YK0hyTJFISncb2wvhgPse",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27323616435599fa24a50021ab9ab67616d0000b273417363f52fbedabb42b26761ab67616d0000b27366563e4566b582d12d554fc5ab67616d0000b273e081ef6de656ee714788ea0d",
+      "width" : 60
+    } ],
+    "name" : "Saints Row The Third 107.7",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjQsYzZhNjNhZDJlYTYxNGQ4M2NmNjFlY2VkNGVmZjI1MGU3ZTY3NTU0Yw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3YK0hyTJFISncb2wvhgPse/tracks",
+      "total" : 19
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3YK0hyTJFISncb2wvhgPse"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/594qUeD2pf0RLsTEfvGvqR"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/594qUeD2pf0RLsTEfvGvqR",
+    "id" : "594qUeD2pf0RLsTEfvGvqR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b273150e65cb1803d0b4b14343f6ab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273b241a6cf5f8405343b357c00ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b273150e65cb1803d0b4b14343f6ab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273b241a6cf5f8405343b357c00ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b273150e65cb1803d0b4b14343f6ab67616d0000b2738c28d7443694de36c67be905ab67616d0000b273b241a6cf5f8405343b357c00ab67616d0000b273dadd32061ed455719bd196d1",
+      "width" : 60
+    } ],
+    "name" : "The Presidents of Cake",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "OSxjZGM5NWE5ODZhMDU4MDlhNDBkMjg0OWQ3YTYyNTU0N2EzMTEzYzAx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/594qUeD2pf0RLsTEfvGvqR/tracks",
+      "total" : 182
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:594qUeD2pf0RLsTEfvGvqR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/28bDVgx0UAvA3khyr1roZQ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/28bDVgx0UAvA3khyr1roZQ",
+    "id" : "28bDVgx0UAvA3khyr1roZQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/75640a4840772ec043fac9ccd23595305de73b1bab67616d0000b2732c714a8fe84351891db79176ab67616d0000b2737a30ae1d451eb0ff53ac9d6fab67616d0000b273ebf7c39ee6ce60bedccd5454",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/75640a4840772ec043fac9ccd23595305de73b1bab67616d0000b2732c714a8fe84351891db79176ab67616d0000b2737a30ae1d451eb0ff53ac9d6fab67616d0000b273ebf7c39ee6ce60bedccd5454",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/75640a4840772ec043fac9ccd23595305de73b1bab67616d0000b2732c714a8fe84351891db79176ab67616d0000b2737a30ae1d451eb0ff53ac9d6fab67616d0000b273ebf7c39ee6ce60bedccd5454",
+      "width" : 60
+    } ],
+    "name" : "BIkermusic",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "OSw3ZGI3YTU3OTc3NGZiZDM2N2ExNGEyZWU3YTdiZmFlMTJmZjVkNTM0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/28bDVgx0UAvA3khyr1roZQ/tracks",
+      "total" : 185
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:28bDVgx0UAvA3khyr1roZQ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5mOxBD1VdYHbtnoTKOq8ry"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5mOxBD1VdYHbtnoTKOq8ry",
+    "id" : "5mOxBD1VdYHbtnoTKOq8ry",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273c174bffb607ee576329291a6ab67616d0000b273f28d2da24c76b2a22a75afc6ab67616d0000b273fed522e78ecdc9fba4a0cc07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273c174bffb607ee576329291a6ab67616d0000b273f28d2da24c76b2a22a75afc6ab67616d0000b273fed522e78ecdc9fba4a0cc07",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273c174bffb607ee576329291a6ab67616d0000b273f28d2da24c76b2a22a75afc6ab67616d0000b273fed522e78ecdc9fba4a0cc07",
+      "width" : 60
+    } ],
+    "name" : "\\mu\\core",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTMsZWRmNTQwZmQ2NmIwMDJkMWFmMzdkZmQxNmMzYmJmZGU2ZjA3NzUyNQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5mOxBD1VdYHbtnoTKOq8ry/tracks",
+      "total" : 87
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5mOxBD1VdYHbtnoTKOq8ry"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4C7CxpQwIC96j18VNzlZFX"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4C7CxpQwIC96j18VNzlZFX",
+    "id" : "4C7CxpQwIC96j18VNzlZFX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27382be3ccdbc7384e6ebcaf187ab67616d0000b2738337acade52820ed9d089cecab67616d0000b273f072a992ec5d1b967b4e9958e28aaaef72259e01b6e6e55b554da0f9ebf7e1b9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27382be3ccdbc7384e6ebcaf187ab67616d0000b2738337acade52820ed9d089cecab67616d0000b273f072a992ec5d1b967b4e9958e28aaaef72259e01b6e6e55b554da0f9ebf7e1b9",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27382be3ccdbc7384e6ebcaf187ab67616d0000b2738337acade52820ed9d089cecab67616d0000b273f072a992ec5d1b967b4e9958e28aaaef72259e01b6e6e55b554da0f9ebf7e1b9",
+      "width" : 60
+    } ],
+    "name" : "Black Rebel Interpol MC",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MzYsNDdhNjg0ODYzYTNmMDY0MjA2ZDFjMDc2NmE5NGEzZWM2OGI4M2YzNA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4C7CxpQwIC96j18VNzlZFX/tracks",
+      "total" : 234
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4C7CxpQwIC96j18VNzlZFX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1AKcwHYYyueySasUU9ckSG"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1AKcwHYYyueySasUU9ckSG",
+    "id" : "1AKcwHYYyueySasUU9ckSG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b27390585b34b1e8dc10288a70d5ab67616d0000b273e6a945e3924ef353cf2e11c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b27390585b34b1e8dc10288a70d5ab67616d0000b273e6a945e3924ef353cf2e11c4",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b27390585b34b1e8dc10288a70d5ab67616d0000b273e6a945e3924ef353cf2e11c4",
+      "width" : 60
+    } ],
+    "name" : "The Devil Makes Buffalo",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MjAsZTJjZDkwZjZkNTViNDE1MmY3YmU1YWZhOWJiODMzZTIxYzc5YTg1OQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1AKcwHYYyueySasUU9ckSG/tracks",
+      "total" : 165
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1AKcwHYYyueySasUU9ckSG"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0J3BQSS7kPW11etx1MjJBz"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0J3BQSS7kPW11etx1MjJBz",
+    "id" : "0J3BQSS7kPW11etx1MjJBz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27311d9cb80998649bf896aa55bab67616d0000b27389be4a6c7099785064e9c6a0ab67616d0000b2738b3454daed140d9ba7751faaab67616d0000b273949960a855387980041d086e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27311d9cb80998649bf896aa55bab67616d0000b27389be4a6c7099785064e9c6a0ab67616d0000b2738b3454daed140d9ba7751faaab67616d0000b273949960a855387980041d086e",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27311d9cb80998649bf896aa55bab67616d0000b27389be4a6c7099785064e9c6a0ab67616d0000b2738b3454daed140d9ba7751faaab67616d0000b273949960a855387980041d086e",
+      "width" : 60
+    } ],
+    "name" : "The FrateLitines",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTMsNDQ3NDU3ZTJhYjczYWNiZjZmZjk5ODMyYTU1ZDEwZDlhMjNmMzZhZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0J3BQSS7kPW11etx1MjJBz/tracks",
+      "total" : 97
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0J3BQSS7kPW11etx1MjJBz"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4neS5oswun4Cu2HJeVuGr7"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4neS5oswun4Cu2HJeVuGr7",
+    "id" : "4neS5oswun4Cu2HJeVuGr7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2730b60975cd9485730ac102546ab67616d0000b2731a3903c1aa8122f7720f5d71ab67616d0000b2738bced1064027c32db4b01f6eab67616d0000b273a7270d9b1e032c7095d5e5fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2730b60975cd9485730ac102546ab67616d0000b2731a3903c1aa8122f7720f5d71ab67616d0000b2738bced1064027c32db4b01f6eab67616d0000b273a7270d9b1e032c7095d5e5fb",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2730b60975cd9485730ac102546ab67616d0000b2731a3903c1aa8122f7720f5d71ab67616d0000b2738bced1064027c32db4b01f6eab67616d0000b273a7270d9b1e032c7095d5e5fb",
+      "width" : 60
+    } ],
+    "name" : "Nirvana top 50",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NDAsMDA0ZWQyYTY5ZDMyNGUwNzI0NzBiOWVlODFkYjZhY2FiZWFlNzI3MQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4neS5oswun4Cu2HJeVuGr7/tracks",
+      "total" : 557
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4neS5oswun4Cu2HJeVuGr7"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3K6Tr87NtjN8crYTHi9i6F"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3K6Tr87NtjN8crYTHi9i6F",
+    "id" : "3K6Tr87NtjN8crYTHi9i6F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/6a8160398b2545c27bec8cb9390047bc57d8fdbfab67616d0000b273a82d10a00b1821ce323645c0ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273e979b9ebbedbab787a16ac44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/6a8160398b2545c27bec8cb9390047bc57d8fdbfab67616d0000b273a82d10a00b1821ce323645c0ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273e979b9ebbedbab787a16ac44",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/6a8160398b2545c27bec8cb9390047bc57d8fdbfab67616d0000b273a82d10a00b1821ce323645c0ab67616d0000b273a84c88fbef5887417d882500ab67616d0000b273e979b9ebbedbab787a16ac44",
+      "width" : 60
+    } ],
+    "name" : "Everyday",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NTEsMzVmNTk5Yzc0YzVjMDFhNWFmYmMwNzZjMzQ3MTNjNmViMjg2MzdiZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3K6Tr87NtjN8crYTHi9i6F/tracks",
+      "total" : 350
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3K6Tr87NtjN8crYTHi9i6F"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7MIaB0XKDlWdtWs2VEHav7"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7MIaB0XKDlWdtWs2VEHav7",
+    "id" : "7MIaB0XKDlWdtWs2VEHav7",
+    "images" : [ ],
+    "name" : "Garotos Podres",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NCw1MjNkYWFmNmFhYWUzNDY0M2MzZjc2YWFjNGM5NDE4ZTVjNmI0ZjYy",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7MIaB0XKDlWdtWs2VEHav7/tracks",
+      "total" : 91
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7MIaB0XKDlWdtWs2VEHav7"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/42DZFYXBCQ7ezM2QL1zDpN"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/42DZFYXBCQ7ezM2QL1zDpN",
+    "id" : "42DZFYXBCQ7ezM2QL1zDpN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2735c596a5a87bc9b95b8d885b4ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b273b73f80190e9c54380dadbbd6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2735c596a5a87bc9b95b8d885b4ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b273b73f80190e9c54380dadbbd6",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2735232bedfedeb2e2f5527a8b3ab67616d0000b2735c596a5a87bc9b95b8d885b4ab67616d0000b2737d74f1ff3b926b9a199cbca2ab67616d0000b273b73f80190e9c54380dadbbd6",
+      "width" : 60
+    } ],
+    "name" : "SOA/whitebuffalo",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTEsNjY4MWFmOGIxODVkMTZlYzJmNzQ4OTViOWVmOWIxODRjOTNkMTFlMw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/42DZFYXBCQ7ezM2QL1zDpN/tracks",
+      "total" : 94
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:42DZFYXBCQ7ezM2QL1zDpN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4HWey5HipEeBd8aONdkuMK"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4HWey5HipEeBd8aONdkuMK",
+    "id" : "4HWey5HipEeBd8aONdkuMK",
+    "images" : [ ],
+    "name" : "UDR",
+    "owner" : {
+      "display_name" : "Jefferson Alexandre Silveira",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/newjeffersonsilveira"
+      },
+      "href" : "https://api.spotify.com/v1/users/newjeffersonsilveira",
+      "id" : "newjeffersonsilveira",
+      "type" : "user",
+      "uri" : "spotify:user:newjeffersonsilveira"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTQsMjY1NDAwMjBiNGEwZWE1ZDMyMWVlYTRkYjFiMjg5OGQzMmYxNmI4MQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4HWey5HipEeBd8aONdkuMK/tracks",
+      "total" : 52
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4HWey5HipEeBd8aONdkuMK"
+  } ],
+  "limit" : 50,
+  "next" : null,
+  "offset" : 100,
+  "previous" : "https://api.spotify.com/v1/users/newjeffersonsilveira/playlists?offset=50&limit=50",
+  "total" : 148
+}
